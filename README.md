@@ -130,7 +130,6 @@
     <p style="text-align:justify; font-size:14pt;"><strong>Conclusion:&nbsp;</strong></p>
     <p style="text-align:justify;">The successful development and implementation of the e-commerce website have provided an efficient platform for online buying and selling. The website incorporates essential features to enhance user experience, facilitate secure transactions, and support sellers in managing their online stores. Continuous monitoring, maintenance, and updates are recommended to ensure the website remains functional, secure, and aligned with changing market trends and user expectations.</p>
     <p style="margin-bottom:8pt; line-height:108%; font-size:16pt;"><strong>&nbsp;</strong></p>
-    <p style="bottom: 10px; right: 10px; position: absolute;"><a href="https://wordtohtml.net" target="_blank" style="font-size:11px; color: #d0d0d0;">Converted to HTML with WordToHTML.net</a></p>
 </body>
 
 </html>
